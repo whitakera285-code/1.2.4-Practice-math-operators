@@ -1,2 +1,3 @@
-// write your answer inside the console.log parentheses
-console.log();
+// Console should log 4. We have to use PEMDAS
+
+console.log(10 % 3 * 2 + 2);
